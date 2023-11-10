@@ -1,4 +1,4 @@
-# bigger-concrete-stack
+# Bigger concrete stack
 This mod makes cocrete stacks bigger.
 
 You can find mod on factorio mod portal:
