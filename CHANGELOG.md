@@ -1,3 +1,10 @@
+# Version: 1.0.1
+  Date: 11.11.2023
+    
+    Features:
+    - Added polish locales
+
+    
 # Version: 1.0.0
   Date: 10.11.2023
   
@@ -11,10 +18,14 @@
 
 
 # Version: 0.1.1
+Date: unknown
+
     Fixes:
     - Added missing thumbnail.png file
 
 
 # Version: 0.1.0
+Date: unknown
+
     Changes:
     - Initial release.
