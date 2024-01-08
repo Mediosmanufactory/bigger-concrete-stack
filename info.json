@@ -1,0 +1,12 @@
+{
+"name":"bigger-concrete-stack",
+"version": "1.0.1",
+"title":"Bigger Concrete Stack",
+"author":"GamBar1709",
+"contact": "gambar1709@gmail.com",
+"description":"This mod makes cocrete stacks bigger",
+"factorio_version":"1.1",
+"dependencies":[
+  "base"
+]
+}
