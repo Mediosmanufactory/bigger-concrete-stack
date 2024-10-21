@@ -1,3 +1,11 @@
+# Version 2.0.0 [21-10-2023]
+
+### Changes
+  - Completely redone file structure to make future changes easier
+  - Updated to Factorio 2.0
+  - Mod is no longer deprecated (yay)
+
+
 # Version 1.0.1 [11-11-2023]
 
 ### Features:
